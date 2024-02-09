@@ -12,5 +12,5 @@ Disallow: /vendors/
 Disallow: /fancybox/
 Disallow: /categories/
 
-Sitemap: http://seth-blog.ml/sitemap.xml
-Sitemap: http://seth-blog.ml/baidusitemap.xml
+Sitemap: http://XieYanshe-blog.github.io/sitemap.xml
+Sitemap: http://XieYanshe-blog.github.io/baidusitemap.xml
